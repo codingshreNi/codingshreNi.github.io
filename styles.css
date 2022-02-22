@@ -1,0 +1,12 @@
+#navbar-list li{
+  display: inline;
+  margin: 20px;
+  float: right;
+  
+}
+
+#bg-image{
+  width: 100%;
+  float: none;
+  height: auto;
+}
