@@ -1,1 +1,27 @@
+@font-face {
 
+}
+.navbar li{
+  float: right;
+  padding: 3px;
+  margin-left: 30px;
+  font-family: cursive;
+  font-size: 1.2em;
+  border-color: #000000;
+  border-style: groove;
+  border-width: thin;
+  list-style: none;
+}
+.content{
+  width: 100%;
+}
+.content li{
+  float: left;
+  margin-left: 25px;
+  padding: 20px;
+  list-style: none;
+}
+#content{
+  float: left;
+  width: 100%
+}
