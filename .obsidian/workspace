@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "c2e460c980e08016",
+    "type": "split",
+    "children": [
+      {
+        "id": "317a47c16e0a58bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09b62f1ee0008e92",
+    "type": "split",
+    "children": [
+      {
+        "id": "974a203f8b26de4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abfb102a662537d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73f5d42da031ad82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e922b10d07466723",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fecb9d9e354bb67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "808e630237035784",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "317a47c16e0a58bf",
+  "lastOpenFiles": [
+    "README.md",
+    "assets/landing-page-bg.png"
+  ]
+}
